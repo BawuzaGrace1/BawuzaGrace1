@@ -1,8 +1,6 @@
 # Hi World, I'm Grace 👋
 
-<p align="center">
-  <img src="newdesign.png.png" alt="Grace Bawuza" width="170"/>
-</p>
+<img src="codegirl5.jpeg" width="200" height="200" style="border-radius: 50%; object-fit: cover;" alt="Grace">
 
 Software Developer passionate about building practical solutions with Python and Django.
 
