@@ -26,5 +26,6 @@ Parking management system that calculates parking charges and manages vehicles.
 Video upload and management application.
 
 ## 📫 Connect With Me
-LinkedIn: https://www.linkedin.com/in/bawuza-grace-9826b0406/
-Email: gracyb2025@gmail.com
+-LinkedIn: https://www.linkedin.com/in/bawuza-grace-9826b0406/
+
+-Email: gracyb2025@gmail.com
